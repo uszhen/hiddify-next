@@ -22,16 +22,3 @@ We would like to express our sincere appreciation to the contributors of the fol
 - [Vazirmatn Font by Saber Rastikerdar](https://github.com/rastikerdar/vazirmatn)
 - [Others](./pubspec.yaml)
 
-## 🎯 Donation and Support
-
-The easiest way to support us is to click on the star (⭐) at the top of this page.
-
-<div align=center>
-    
-<img alt="Star History Chart" width=50% src="https://api.star-history.com/svg?repos=Hiddify/hiddify-next&type=Date)](https://star-history.com/#Hiddify/hiddify-next&Date" />
-
-</div>
-
-We also need financial support for our services. All of our activities are done voluntarily and financial support will be spent on the development of the project. You can view our support addresses [here](https://github.com/hiddify/hiddify-server/wiki/support).
-
-
